@@ -18,7 +18,6 @@ namespace SalonManager.Dominio.Entidades
         public string Contraseña { get; set; }
 
         public int RolId { get; set; }
-        // un comentario
 
         public RolEntity Rol { get; set; }
     }
